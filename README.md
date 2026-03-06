@@ -40,7 +40,7 @@
 ### 🚀 طريقة الاستخدام
 
 لا يحتاج أي تثبيت — افتح الرابط مباشرة في أي متصفح:
-👉 **[افتح المحاكي]((https://EngMahdi.github.io/war-simulation/))**
+👉 **[افتح المحاكي]((https://engmahdi.github.io/war-simulation-/))**
 
 
 ### ⚠️ إخلاء المسؤولية
@@ -91,7 +91,7 @@ No hardcoded conclusions — every assumption is editable by the user.
 
 No installation required. Open directly in any browser:
 
-👉 **[Live Demo](https://EngMahdi.github.io/war-simulation/)**
+👉 **[Live Demo](https://engmahdi.github.io/war-simulation-/)**
 
 ### ⚠️ Disclaimer
 
